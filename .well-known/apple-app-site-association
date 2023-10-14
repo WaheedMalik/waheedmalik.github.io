@@ -1,0 +1,21 @@
+{
+   "applinks": {
+     "details": [
+       {
+         "appIDs": [
+           "A9MEQ7QP46.com.wamstek.nfcTest"
+         ],
+         "components": [
+           {
+             "/": "*",
+             "comment": "Matches any URL whose path is * and instructs the system to open it as a Universal link"
+           },
+           {
+             "/": "/",
+             "comment": "Matches any URL whose path is / and instructs the system to open it as a Universal link"
+           }
+         ]
+       }
+     ]
+   }
+ }
